@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import entity.User;
 import service.UserService;
 import service.UserServiceImpl.UserServiceIpml;
-@WebServlet("/Add")
+@WebServlet("/add")
 public class UserServlet extends HttpServlet {
 
 	@Override

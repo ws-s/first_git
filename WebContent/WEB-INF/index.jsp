@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action=""Add method="post">
+	<form action="add" method="post">
 		用户名：<input type="text" name="name" value=""><br/>
 		年龄：<input type="text" name="age" value=""><br/>
 		<input type="submit" value="保存">
